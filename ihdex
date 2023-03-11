@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../CSS/index-header.css">
+	<script src="../JS/jquery-3.6.3.js"></script>
+	<script src="../JS/index.js"></script>
+    <title>王者荣耀官方网站-腾讯游戏</title>
+	<link rel="icon" type="images/x-ico" href="../images/logo.ico">
+</head>
+<body>
+    <div class="header">
+    	<div class="header-nav">
+    		<div class="header-main">
+    			<div class="header-left">
+					<h1>
+						<a href="">
+							<img src="../images/王者荣耀.png" alt="">
+						</a>
+					</h1>
+				</div>
+    			<div class="header-center">
+					<ul class="header-center-nav">
+						<li><a href="">游戏资源<em>DATA</em></a></li>
+						<li><a href="">内容中心<em>CONTENTS</em></a></li>
+						<li><a href="">赛事中心<em>MATCH</em></a></li>
+						<li><a href="">百态王者<em>CULTURE</em></a></li>
+						<li><a href="">社区互动<em>COMMUNITY</em></a></li>
+						<li><a href="">玩家支持<em>PLAYER</em></a></li>
+						<li><a href="">IP新游<em>NEW GAMES</em></a></li>
+					</ul>
+				</div>
+    			<div class="header-right">
+					<div class="header-right-icon">
+						<a href=""><img src="../images/王者小标.png" alt=""></a>
+					</div>
+					<div class="header-right-login">
+						<a href="">
+							<p class="header-right-login-1p">欢迎登录</p>
+						</a>
+						<p class="header-right-login-2p">登录后查看游戏战绩</p>
+					</div>
+				</div>
+    		</div>
+    	</div>
+		<div class="header-sub">
+			<div class="header-sub-main">
+				<ul class="header-sub-main-nav">
+					<li class="down-nav">
+						<a href=""><i class="icon-fans"></i>版本介绍</a>
+						<a href=""><i class="icon-fans"></i>游戏介绍</a>
+						<a href=""><i class="icon-fans"></i>英雄资料</a>
+						<a href=""><i class="icon-fans"></i>爆料站</a>
+						<a href=""><i class="icon-fans"></i>世界观体验站</a>
+						<a href=""><i class="icon-fans"></i>游戏壁纸</a>
+					</li>
+					<li class="down-nav">
+						<a href=""><i class="icon-fans"></i>攻略中心</a>
+						<a href=""><i class="icon-fans"></i>开发素材库</a>
+						<a href=""><i class="icon-fans"></i>内容共创平台</a>
+						<a href=""><i class="icon-fans"></i>手语打法参考</a>
+
+					</li>
+					<li class="down-nav">
+						<a href=""><i class="icon-fans"></i>KPL</a>
+						<a href=""><i class="icon-fans"></i>K甲联赛</a>
+						<a href=""><i class="icon-fans"></i>世界冠军杯</a>
+						<a href=""><i class="icon-fans"></i>挑战者杯</a>
+						<a href=""><i class="icon-fans"></i>全国大赛</a>
+						<a href=""><i class="icon-fans"></i>女子公开赛</a>
+						<a href=""><i class="icon-fans"></i>高校联盟</a>
+						<a href=""><i class="icon-fans"></i>王者赛宝</a>
+						<a href=""><i class="icon-fans"></i>赛事数据</a>
+					</li>
+					<li class="down-nav">
+						<a href=""><i class="icon-fans"></i>荣耀·传承</a>
+						<a href=""><i class="icon-fans"></i>王者文化站</a>
+						<a href=""><i class="icon-fans"></i>万千世界</a>
+						<a href=""><i class="icon-fans"></i>王者觉悟</a>
+						<a href=""><i class="icon-fans"></i>星光殿堂</a>
+						<a href=""><i class="icon-fans"></i>IP共创计划</a>
+						<a href=""><i class="icon-fans"></i>商务特权</a>
+						<a href=""><i class="icon-fans"></i>龙翼王者卡</a>
+					</li>
+					<li class="down-nav">
+						<a href=""><i class="icon-fans"></i>创意互动营</a>
+						<a href=""><i class="icon-fans"></i>王者营地</a>
+						<a href=""><i class="icon-fans"></i>微信圈子</a>
+						<a href=""><i class="icon-fans"></i>官方微博</a>
+						<a href=""><i class="icon-fans"></i>微信公众号</a>
+						<a href=""><i class="icon-fans"></i>手Q订阅号</a>
+					</li>
+					<li class="down-nav">
+						<a href=""><i class="icon-fans"></i>腾讯游戏防沉迷</a>
+						<a href=""><i class="icon-fans"></i>成长守护平台</a>
+						<a href=""><i class="icon-fans"></i>对局环境情报站</a>
+						<a href=""><i class="icon-fans"></i>客服专区</a>
+						<a href=""><i class="icon-fans"></i>礼包兑换</a>
+						<a href=""><i class="icon-fans"></i>自助服务</a>
+					</li>
+					<li class="down-nav">
+						<a href=""><i class="icon-fans"></i>王者荣耀·世界</a>
+						<a href=""><i class="icon-fans"></i>代号:破晓</a>
+						<a href=""><i class="icon-fans"></i>代号:启程</a>
+						<a href=""><i class="icon-fans"></i>王者万象棋</a>
+					</li>
+				</ul>
+			</div>
+		</div>
+    </div>
+	<div class="background">
+		<!-- <img src="../images/王者背景.jpg" alt=""> -->
+	</div>
+</body>
+</html>
